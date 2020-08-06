@@ -15,7 +15,7 @@ cd exchange-rate-calculator
 ```
 
 ```
-git remote upstream add https://github.com/joshuafolorunsho/exchange-rate-calculator.git
+git remote add upstream https://github.com/joshuafolorunsho/exchange-rate-calculator.git
 ```
 
 ```bash
